@@ -87,7 +87,6 @@ Email-based password reset (Forget Password)
 
 Admin dashboard UI
 
-Frontend (React/HTML+CSS)
 ----
 
 
